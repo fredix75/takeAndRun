@@ -1,0 +1,155 @@
+/** ROCK */
+
+#content{
+	background-color:#333333;
+	height:auto;
+}
+
+#dossier{
+	background-color:white;
+	font-size:120%;
+	text-align:justify;
+	width:90%;
+	height:auto;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+#dossTitre{
+	background-color:#333333;
+	color:white;
+	padding:20px 0px;
+}
+
+#dossTitre h1{
+	text-align:center;
+}
+
+#dossNav{
+
+	margin-top:40px;
+	background-color:#666666;
+}
+
+
+#dossNav ul{
+	list-style:none;
+
+}
+
+#dossNav li{
+	display:inline;
+	margin-left:2px;
+	font-weight:bold;
+}
+
+#dossNav a{
+	font-size:90%;
+	background-color:#663333;
+	color:white;
+	padding:5px 10px;
+}
+
+#dossNav a:hover{
+	font-size:90%;
+	background-color:#006699;
+	color:white;
+	padding:5px 10px;
+}
+
+#chapeau{
+	background-color:#333333;
+	color:white;
+	padding:20px 0px;
+	margin-bottom:20px;
+}
+
+#chapeau p{
+	font-size:110%;
+	font-weight:bold;
+}
+
+.classic{
+	position:relative;
+	float:left;
+	margin-bottom:30px;
+}
+
+.art1{
+	width:58%;
+	float:left;
+	position:relative;
+	margin-left:20px;
+	margin-top:10px;
+	height:auto;"
+}
+.clip1{
+	width:34%;
+	float:right;
+	position:relative;
+	margin:20px 20px;
+}
+
+#mississipi{
+	background-image:url(../IMAGES/dossier/fondcoton.jpg);
+	color:white;
+	width:100%;
+	margin-left:-50px;
+	padding:20px 50px;
+	float:left;
+	position:relative;
+}
+
+.black{
+	background-color:black;
+	color:white;
+	height:auto;
+	position:relative;
+	float:left;"
+}
+
+.bandeclips{
+	text-align:center;
+	margin-left:40px;
+	margin-top:20px;
+	height:auto;
+}
+
+.clip2{
+	width:220px;
+	position:relative;
+	float:left;
+	margin-left:40px;"
+}
+
+.cadre4{
+	width:96%;
+	position:relative;
+
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.ticket{
+	position:relative;
+	float:left;
+	width:100%;
+	margin-top:20px;
+	height:180px;
+}
+
+.tickettexte{
+	position:relative;
+	float:left;
+	width:63%;
+	margin:0px 20px;
+	border-top:dotted black 1px;
+	border-bottom:dotted black 1px;
+	height:100%;
+}
+
+.ticketclip{
+	position:relative;
+	float:left;
+	width:30%;
+}

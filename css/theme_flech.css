@@ -1,0 +1,168 @@
+body{
+	background-color:#778899;
+	background-image:none;
+}
+
+#global{
+	margin-top:0px;
+}
+	
+#header 
+{
+	background:transparent;
+	background-image:url(../IMAGES/titre_gold.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	height:150px;
+}
+
+#nav{
+
+  /* box-shadow: 0px -1px 12px #8CA1DF;*/
+   	width:100%;
+	background-color:#000000;  
+	padding-bottom:2px;
+
+
+}
+#date{
+	background-color:black;
+   box-shadow: 3px -1px 12px #8CA1DF;	
+	color:white; /*n°3*/
+	width:0px;
+}
+#content{
+	border-radius:20px;
+	position:relative;
+	float:left;
+	margin-top:20px;
+	box-shadow: -1px -1px 6px #000000;
+	overflow:hidden;	
+	width:100%;
+}
+
+/* ACCUEIL VIDEOS */
+#col01 {
+	background-color:#CCCCCC;   
+}
+
+#col02 {
+
+}
+
+#colMenu{
+	width:160px;
+	background-color:#000000;
+	background-image:none;	
+	box-shadow: -1px -1px 6px #8CA1DF;				
+}
+
+.com1{
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.com3{
+	background-color: #999999;
+}
+
+a:hover .com1{
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.ecran1 h1{
+	color:white;
+    letter-spacing: -0.071em;
+    line-height: 1.1;
+    text-indent: -2px;
+}
+
+.ecran1 h3{
+	color:#CCCC33;
+}
+
+.ecran1 a:hover, .ecran1 a:link{
+	font-weight:normal;
+}
+
+.sousCom1{
+	padding:5px 0px -5px 10px;
+	overflow:hidden;
+	height:80%;
+}
+
+.sousCom1 h2{
+	margin-left:0.2em;
+	letter-spacing: -0.07em;
+    text-indent: -2px;
+	margin-bottom:0px;
+}
+
+.sousCom1 .auteur{
+	letter-spacing: 0.1em;
+	margin-left:0.2em;	
+	margin-top:-10px;
+	font-weight:bold;
+	color:#333333;
+}
+
+.sousCom1 p{
+	color:black;	
+}
+
+a:hover .sousCom1{ /*n°2*/
+	background-color: rgba(0, 0, 0, 0.2);
+	color:white;
+}
+
+
+
+
+
+.col_article h3{
+	color:#C80000;
+}
+
+
+/* MENU */
+
+.menu a{
+	color:white;
+}
+
+.menu a:hover, .menu a:focus, .menu a:active {
+	color:white;; /*n°3*/
+	background-color:#C80000; /*n°2*/
+}
+
+.menu ul.subMenu a {
+	text-decoration:none;
+	color:#000000;
+	background-color:white; /*n°1*/
+}
+ 
+ .menu ul.subMenu a:hover {
+	color:red; /*n°2*/
+	text-decoration:underline;
+	background-color:#FFFFCC;/*n°4*/
+}
+
+/** SAISIE VIDEO */
+.saisieVideo{
+	color:white;
+	background-color:#333300;
+	background-image:url(../IMAGES/mailles.jpg);
+	
+}
+
+/** PAGE VIDEO */
+#ecrangeant{
+	width:100%;
+	border-radius:0px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-20px;
+	background-color:black;
+	padding:20px 0px 20px 0px;
+	float:left;
+}
+

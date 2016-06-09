@@ -1,0 +1,64 @@
+#header 
+{
+	background-image:url(../IMAGES/takeandrun_titre.jpg);
+}
+
+#nav{
+	background-color:black;
+	width:100%;
+}
+
+#date{
+	color:#00FF00; /*n°3*/
+	width:0px;
+}
+
+#content{
+
+	background-color: grey;
+}
+
+/* ACCUEIL VIDEOS */
+#col01 
+{
+	background-color:#E6EEDD; /*n°1*/
+}
+
+.com1{
+	background-color:#336633; /*n°2*/
+}
+
+.com3{
+	background-color:#336633;/*n°2*/
+}
+
+a:hover .com2, a:hover .com2 h2{ /*n°2*/
+	background-color:#336633;
+	background-image:url(../IMAGES/zebr.png);
+}
+
+/* MENU */
+.menu a:hover, .menu a:focus, .menu a:active {
+	color:#00FF00; /*n°3*/
+	background-color:#336633; /*n°2*/
+}
+
+.menu ul.subMenu a {
+	text-decoration:none;
+	color:#000000;
+	background-color:#E6EEDD; /*n°1*/
+}
+ 
+ .menu ul.subMenu a:hover {
+	color:#336633; /*n°2*/
+	text-decoration:underline;
+	background-color:#99CC33;/*n°4*/
+}
+
+/** SAISIE VIDEO */
+.saisieVideo{
+	color:white;
+	background-color:#333300;
+	background-image:url(../IMAGES/mailles.jpg);
+	
+}

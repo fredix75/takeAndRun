@@ -1,0 +1,58 @@
+#header 
+	{
+	background-image:url(../IMAGES/takeandrun_red.jpg);
+}
+
+
+#nav{
+	background-color:black;
+	width:100%;
+}
+
+#date{
+	color:#FF0000; /*n°3*/
+	width:0px;
+}
+
+/* VIDEOS ACCUEIL */
+
+#col01 
+{
+	background-color: #F4E1D7;/*n°1*/
+}
+
+.com1{
+	background-color:#870031;/*n°2*/
+}
+
+.com3{
+	background-color:#870031;/*n°2*/
+}
+
+a:hover .com2, a:hover .com2 h2{
+	background-color:#870031;/*n°2*/
+}
+
+/* MENU */
+.menu a:hover, .menu a:focus, .menu a:active {
+	color:#FF0000;/*n°3*/
+	background-color:#870031;/*n°2*/
+}
+
+.menu ul.subMenu a {
+	text-decoration:none;
+	color:#000000;
+	background-color:#F4E1D7;/*n°1*/
+}
+
+.menu ul.subMenu a:hover {
+	color: #870031;/*n°2*/
+	text-decoration:underline;
+	background-color: #F77C96;/*n°4*/
+}
+
+/** SAISIE VIDEO */
+.saisieVideo{
+	color:white;
+	background-color:#75133B; /*n°5*/
+}
