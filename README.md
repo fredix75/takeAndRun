@@ -1,2 +1,2 @@
 # takeAndRun
-un test....
+Ce fameux projet d'avant-garde, aujourd'hui obsolète
